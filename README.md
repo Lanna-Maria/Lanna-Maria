@@ -26,26 +26,7 @@
 
 ## 💼 Projetos em Destaque
 
-### 🐾 Pet Shop Feliz
-> Aplicação web em **React** com **Prisma** e **PostgreSQL**, gerenciando produtos, agendamentos e carrinho de compras.  
-🔗 [Repositório](https://github.com/LannaMaria/projeto-pet-shop-fullstack)
 
-### 🌕 MOOC Gamificado de Pensamento Computacional
-> Curso híbrido no **Moodle** com narrativa, gamificação e plugins interativos (*Level Up*, *H5P*, *VideoEdu*).  
-🔗 [Apresentação do Projeto](#) *(adicione link quando disponível)*
-
-### 🎮 Jogo da Cidade Gana
-> Jogo educativo na **Game Maker Engine** com quizzes e narrativa da Jornada do Herói.  
-🔗 [Documentação / GDD](#) *(adicione link quando disponível)*
-
----
-
-## ✨ Extras Animados
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" alt="gear spinning"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" alt="celebration"/>
-</p>
 
 ---
 
@@ -80,4 +61,3 @@
 
 ---
 
-✨ *"Educar é transformar curiosidade em conhecimento e conhecimento em poder."*
