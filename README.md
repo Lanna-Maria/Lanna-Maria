@@ -1,7 +1,7 @@
-# 👋 Olá! Eu sou a Lanna Maria
+# 👋 Olá! me chamo Lanna Maria
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&width=435&lines=Olá,+eu+sou+a+Lanna+Maria!;Desenvolvedora+Front-End;Apaixonada+por+Educação+e+Gamificação!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&width=435&lines=Olá,+me+chamo+Lanna+Maria!;Desenvolvedora+Full Stack;Apaixonada+por+Tecnologia; Seja+bem+vindo(a)!" alt="Typing SVG"/>
 </p>
 
 🎓 Sou **estudante de Bacharelado em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), atualmente no **8º semestre**. Tenho foco em **Desenvolvimento de Sistemas**, **Engenharia de Software** e **Gamificação na Educação**.
