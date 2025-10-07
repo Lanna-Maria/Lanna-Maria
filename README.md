@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou a Lanna Maria  
 <img align="right" src="./assets/wave.svg" width="120" alt="waving hand">
 
-🎓 Sou **estudante de Bacharelado em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), atualmente no **8º semestre**. Tenho foco em **Desenvolvimento de Sistemas**, **Engenharia de Software** e **Gamificação na Educação**.
+🎓 Sou **estudante de Bacharelado em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), atualmente no **9º semestre**. Tenho foco em **Desenvolvimento de Sistemas**, **Engenharia de Software** e **Gamificação na Educação**.
 
 🚀 Participo de projetos de pesquisa e extensão voltados ao **ensino gamificado e ao pensamento computacional**, com destaque para:  
 - 🧠 **TCC:** *Aplicação e Avaliação de Técnicas de Gamificação em um Curso MOOC Híbrido de Pensamento Computacional*  
