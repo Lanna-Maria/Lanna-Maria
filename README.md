@@ -6,7 +6,7 @@
 
 
 
-🎓 Sou **estudante de Bacharelado em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), atualmente no **9º semestre**. Tenho foco em **Desenvolvimento de Sistemas**, **Engenharia de Software** e **Ciência de Dados**.
+🎓 Sou estudante de **Bacharelado em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), atualmente no **9º semestre**. Tenho foco em **Desenvolvimento de Sistemas**, **Engenharia de Software** e **Ciência de Dados**. Atualmente, faço o **Curso de Extensão Universitária em Desenvolvimento Full Stack** pela Residência em TIC 20 Capacita Brasil (UECE).
 
 
 💻 Fullstack Developer em formação, com experiência em **HTML5, CSS3, Bootstrap5, JavaScript (React.js, Node.js, Express), Python, SQL** e **Prisma ORM**.
