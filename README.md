@@ -16,8 +16,11 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,postgresql" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,postgresql,git,github,vscode" alt="tech icons"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
 </p>
+
 
 ---
 
