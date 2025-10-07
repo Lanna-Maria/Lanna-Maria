@@ -1,14 +1,17 @@
-# 👋 Olá! Eu sou a Lanna Maria  
-<img align="right" src="./assets/wave.svg" width="120" alt="waving hand">
+# 👋 Olá! Eu sou a Lanna Maria
 
-🎓 Sou **estudante de Bacharelado em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), atualmente no **9º semestre**. Tenho foco em **Desenvolvimento de Sistemas**, **Engenharia de Software** e **Gamificação na Educação**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&width=435&lines=Olá,+eu+sou+a+Lanna+Maria!;Desenvolvedora+Front-End;Apaixonada+por+Educação+e+Gamificação!" alt="Typing SVG"/>
+</p>
+
+🎓 Sou **estudante de Bacharelado em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), atualmente no **8º semestre**. Tenho foco em **Desenvolvimento de Sistemas**, **Engenharia de Software** e **Gamificação na Educação**.
 
 🚀 Participo de projetos de pesquisa e extensão voltados ao **ensino gamificado e ao pensamento computacional**, com destaque para:  
 - 🧠 **TCC:** *Aplicação e Avaliação de Técnicas de Gamificação em um Curso MOOC Híbrido de Pensamento Computacional*  
 - 🎮 **Projeto Gana:** jogo educativo sobre Engenharia de Requisitos com narrativa inspirada na Jornada do Herói  
 - 🌕 **Projeto Lua:** desenvolvimento e aplicação de um **MOOC gamificado de Pensamento Computacional**, voltado a alunas do Ensino Médio
 
-💡 Também tenho experiência prática em **desenvolvimento web e mobile**, atuando com **HTML, CSS, JavaScript, React** e **Python**.
+💡 Tenho experiência prática em **desenvolvimento web e mobile**, atuando com **HTML, CSS, JavaScript, React** e **Python**.
 
 ---
 
@@ -22,27 +25,25 @@
 ## 💼 Projetos em Destaque
 
 ### 🐾 Pet Shop Feliz
-> Aplicação web desenvolvida em **React** com integração ao **Prisma** e **PostgreSQL**, permitindo o gerenciamento de produtos, agendamentos e carrinho de compras.  
+> Aplicação web em **React** com **Prisma** e **PostgreSQL**, gerenciando produtos, agendamentos e carrinho de compras.  
 🔗 [Repositório](https://github.com/LannaMaria/projeto-pet-shop-fullstack)
-
----
 
 ### 🌕 MOOC Gamificado de Pensamento Computacional
 > Curso híbrido no **Moodle** com narrativa, gamificação e plugins interativos (*Level Up*, *H5P*, *VideoEdu*).  
-🔗 [Apresentação do Projeto](#) *(adicione o link quando disponível)*
-
----
+🔗 [Apresentação do Projeto](#) *(adicione link quando disponível)*
 
 ### 🎮 Jogo da Cidade Gana
 > Jogo educativo na **Game Maker Engine** com quizzes e narrativa da Jornada do Herói.  
-🔗 [Documentação / GDD](#) *(adicione o link quando disponível)*
+🔗 [Documentação / GDD](#) *(adicione link quando disponível)*
 
 ---
 
-## ⚙️ Extras Visuais
-<img src="./assets/gear.svg" width="90" alt="rotating gear" align="left" style="margin-right:12px"/>
+## ✨ Extras Animados
 
-Esses ícones animados adicionam um toque interativo ao perfil e tornam a leitura mais dinâmica 🌀
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" alt="gear spinning"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" alt="celebration"/>
+</p>
 
 ---
 
