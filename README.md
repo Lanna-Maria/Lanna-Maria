@@ -6,14 +6,11 @@
 
 
 
-🎓 Sou **estudante de Bacharelado em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), atualmente no **8º semestre**. Tenho foco em **Desenvolvimento de Sistemas**, **Engenharia de Software** e **Gamificação na Educação**.
+🎓 Sou **estudante de Bacharelado em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), atualmente no **9º semestre**. Tenho foco em **Desenvolvimento de Sistemas**, **Engenharia de Software** e **Ciência de Dados**.
 
-🚀 Participo de projetos de pesquisa e extensão voltados ao **ensino gamificado e ao pensamento computacional**, com destaque para:  
-- 🧠 **TCC:** *Aplicação e Avaliação de Técnicas de Gamificação em um Curso MOOC Híbrido de Pensamento Computacional*  
-- 🎮 **Projeto Gana:** jogo educativo sobre Engenharia de Requisitos com narrativa inspirada na Jornada do Herói  
-- 🌕 **Projeto Lua:** desenvolvimento e aplicação de um **MOOC gamificado de Pensamento Computacional**, voltado a alunas do Ensino Médio
 
-💡 Tenho experiência prática em **desenvolvimento web e mobile**, atuando com **HTML, CSS, JavaScript, React** e **Python**.
+💻 Fullstack Developer em formação, com experiência em **HTML5, CSS3, Bootstrap5, JavaScript (React.js, Node.js, Express), Python, SQL** e **Prisma ORM**.
+
 
 ---
 
