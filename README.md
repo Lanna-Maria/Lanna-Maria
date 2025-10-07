@@ -31,10 +31,9 @@
 ---
 
 ## 📚 Áreas de Interesse
-- Desenvolvimento Front-End e UX/UI  
-- Jogos Educacionais e Gamificação  
-- Ensino de Computação e Pensamento Computacional  
-- Desenvolvimento de Aplicativos Educacionais
+- Desenvolvimento Front-End e UX/UI – criação de interfaces interativas, responsivas e focadas na experiência do usuário.
+
+- Desenvolvimento Back-End, Fullstack e APIs – construção de aplicações completas e criação de APIs usando Node.js, Express, Python, SQL e Prisma ORM.
 
 ---
 
@@ -54,7 +53,7 @@
   <a href="mailto:lannamaria@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://lannamaria.github.io" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-%239B59B6.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
