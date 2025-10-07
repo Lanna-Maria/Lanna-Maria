@@ -1,1 +1,22 @@
-
+<!-- assets/wave.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 120 120">
+  <style>
+    .hand{ transform-origin:60px 70px; animation: wave 1.2s infinite ease-in-out; }
+    @keyframes wave {
+      0% { transform: rotate(0deg); }
+      20% { transform: rotate(20deg); }
+      40% { transform: rotate(-10deg); }
+      60% { transform: rotate(15deg); }
+      80% { transform: rotate(-6deg); }
+      100% { transform: rotate(0deg); }
+    }
+  </style>
+  <rect width="100%" height="100%" fill="transparent"/>
+  <!-- simples mão estilizada -->
+  <g class="hand" fill="#FFB86B" stroke="#b86b3a" stroke-width="1">
+    <path d="M50 60 q-6 -12 0 -18 q5 -6 10 -2 q6 4 4 10 q-2 6 -1 14 q-1 4 -13 -4z"/>
+    <path d="M62 44 q6 -8 12 -6 q5 2 4 8 q-1 6 -6 10 q-5 4 -9 2 q-4 -2 -6 -14z"/>
+  </g>
+  <!-- pulso -->
+  <rect x="36" y="74" width="48" height="12" rx="6" fill="#f0c7a6"/>
+</svg>
