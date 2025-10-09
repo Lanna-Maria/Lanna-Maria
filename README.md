@@ -37,14 +37,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LannaMaria&show_icons=true&theme=radical" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LannaMaria&layout=compact&theme=radical" height="160em" />
-</p>
-
----
-
 ## 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/lanna-maria" target="_blank">
