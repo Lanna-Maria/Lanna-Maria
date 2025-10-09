@@ -26,9 +26,9 @@
 
 ## 💼 Projetos em Destaque
 
-### cafe-do-amanha-FullStack
+### ProjetoFullStack-Cafe-do-amanha
 > Aplicação FullStack em **React.js**, **Axios**, **Node.js**, **PostgreSQL** e  **Prisma ORM**. O projeto oferece uma página inicial que apresenta o conceito poético do café, permite visualizar cardápios e produtos, realizar pedidos de forma interativa, integra frontend e backend e conta com interface responsiva para dispositivos mobile e desktop.
- 🔗 [Repositório](https://github.com/Lanna-Maria/cafe-do-amanha-FullStack.git)
+ 🔗 [Repositório](https://github.com/Lanna-Maria/ProjetoFullStack-Cafe-do-amanha.git)
 
 ###  PetShopFeliz Website (Versão React)
 > Aplicação web realizada em equipe em **React**. O projeto consiste na criação de um site moderno, responsivo e funcional para um PetShop fictício, com foco em simular uma aplicação real utilizando React e bibliotecas auxiliares.
