@@ -26,7 +26,21 @@
 
 ## 💼 Projetos em Destaque
 
+### cafe-do-amanha-FullStack
+> Aplicação FullStack em **React.js**, **Axios**, **Node.js**, **PostgreSQL** e  **Prisma ORM**. O projeto oferece uma página inicial que apresenta o conceito poético do café, permite visualizar cardápios e produtos, realizar pedidos de forma interativa, integra frontend e backend e conta com interface responsiva para dispositivos mobile e desktop.
+ 🔗 [Repositório](https://github.com/Lanna-Maria/cafe-do-amanha-FullStack.git)
 
+###  PetShopFeliz Website (Versão React)
+> Aplicação web realizada em equipe em **React**. O projeto consiste na criação de um site moderno, responsivo e funcional para um PetShop fictício, com foco em simular uma aplicação real utilizando React e bibliotecas auxiliares.
+🔗 [Repositório](https://github.com/Lanna-Maria/projeto-pet-shop-frontend.git)
+
+###  Api de Cadastro de Alunos
+> API RESTful em **Node.js**, **Express**, **PostgreSQL** e  **Prisma ORM**. Segue o padrão MVC (Model-View-Controller) e fornece uma API RESTful para gerenciar alunos e professores de uma escola.
+🔗 [Repositório](https://github.com/Lanna-Maria/cadastro-de-alunos-backend.git)
+
+###  Calculadora React
+> Calculadora funcional  em **React.js**, que realiza operações básicas, permitindo colocar em prática os conceitos aprendidos sobre componentes, estados e eventos no React.
+🔗 [Repositório](https://github.com/Lanna-Maria/Calculadora-React.git)
 
 ---
 
