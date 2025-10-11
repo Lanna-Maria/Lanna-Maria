@@ -14,11 +14,21 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Habilidades Técnicas
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,postgresql,git,github,vscode" alt="tech icons"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5"/>
+  
+<ul><li>Linguagens de Programação:</li></ul>
+  <img src="https://skillicons.dev/icons?i=js,python,SQL" alt="tech icons"/>
+<ul><li>Frameworks e Bibliotecas:</li></ul>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="tech icons"/>
+ <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5"/>
+<ul><li>Dados:</li></ul>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="tech icons"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
+<ul><li>Ferramentas e Tecnologias:</li></ul>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="tech icons"/>
+
 </p>
 
 
