@@ -23,7 +23,7 @@
 <ul><li>Frameworks e Bibliotecas:</li></ul>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" alt="tech icons"/>
 <ul><li>Dados:</li></ul>
-  <img src="https://skillicons.dev/icons?i=postgresql, prisma" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,prisma" alt="tech icons"/>
 <ul><li>Ferramentas e Tecnologias:</li></ul>
   <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="tech icons"/>
 
