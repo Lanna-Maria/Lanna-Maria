@@ -21,11 +21,9 @@
 <ul><li>Linguagens de Programação:</li></ul>
   <img src="https://skillicons.dev/icons?i=js,python,SQL" alt="tech icons"/>
 <ul><li>Frameworks e Bibliotecas:</li></ul>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="tech icons"/>
- <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" alt="tech icons"/>
 <ul><li>Dados:</li></ul>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="tech icons"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
+  <img src="https://skillicons.dev/icons?i=postgresql, prisma" alt="tech icons"/>
 <ul><li>Ferramentas e Tecnologias:</li></ul>
   <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="tech icons"/>
 
