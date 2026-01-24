@@ -5,7 +5,7 @@
 </p>
 
 
-🎓 **Graduada em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), com foco em **Desenvolvimento de Sistemas** e **Engenharia de Software**, e formação complementar em Desenvolvimento Full Stack pela Residência em TIC 20 – Capacita Brasil (UECE).
+🎓 **Graduada em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), com foco em **Desenvolvimento de Sistemas** , **Engenharia de Software** e **Machine Learning**, e formação complementar em Desenvolvimento Full Stack pela Residência em TIC 20 – Capacita Brasil (UECE).
 
 💻 Fullstack Developer em início de carreira, com experiência em **HTML5, CSS3, Bootstrap, JavaScript (React.js, Node.js, Express), Python, SQL** e **Prisma ORM**.
 
