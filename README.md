@@ -8,7 +8,7 @@
 
 🎓 **Mestranda em Engenharia Elétrica e de Computação (UFC)** Campus Sobral, na área de Sistemas de Informação, com linha de pesquisa em **Engenharia de Software e Qualidade de Software**.  
 
-🎓 **Bacharela em Ciência da Computação** pelo IFCE Campus Tianguá, com formação complementar em Desenvolvimento Full Stack pela **Residência em TIC 20 Capacita Brasil (UECE)**.
+🎓 **Bacharela em Ciência da Computação (IFCE)** Campus Tianguá, com formação complementar em Desenvolvimento Full Stack pela **Residência em TIC 20 Capacita Brasil (UECE)**.
 
 💻 Desenvolvedora **Full Stack**, com experiência no desenvolvimento de aplicações web, APIs RESTful e integração entre frontend e backend, utilizando **React.js, Axios, Node.js, Express, PostgreSQL, Prisma ORM, Python e SQL**.
 
