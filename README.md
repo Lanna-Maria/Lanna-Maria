@@ -79,7 +79,7 @@ Aplicação desenvolvida em **React.js**, implementando operações matemáticas
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/lanna-maria](https://www.linkedin.com/in/lannamaria/)" target="_blank">
+  <a href="https://www.linkedin.com/in/lannamaria/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lannamaria@gmail.com">
