@@ -1,7 +1,7 @@
 # 👋 Olá! Me chamo Lanna Maria
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&width=520&lines=Olá,+me+chamo+Lanna+Maria!;Mestranda+em+Engenharia+Elétrica+e+de+Computação;Full+Stack+Developer;Seja+bem-vindo(a)!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&width=520&lines=Olá,+me+chamo+Lanna+Maria!;Full+Stack+Developer;Seja+bem-vindo(a)!" alt="Typing SVG"/>
 </p>
 
 ---
