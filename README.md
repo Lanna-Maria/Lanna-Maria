@@ -1,63 +1,83 @@
-# 👋 Olá! me chamo Lanna Maria
+# 👋 Olá! Me chamo Lanna Maria
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&width=435&lines=Ola,+me+chamo+Lanna+Maria!;Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia;Seja+bem-vindo%28a%29%21" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&width=520&lines=Olá,+me+chamo+Lanna+Maria!;Mestranda+em+Engenharia+Elétrica+e+de+Computação;Full+Stack+Developer;Seja+bem-vindo(a)!" alt="Typing SVG"/>
 </p>
 
+---
 
-🎓 **Graduada em Ciência da Computação** pelo [IFCE - Campus Tianguá](https://ifce.edu.br/tiangua), com foco em **Desenvolvimento de Sistemas** , **Engenharia de Software** e **Machine Learning**, e formação complementar em Desenvolvimento Full Stack pela Residência em TIC 20 – Capacita Brasil (UECE).
+🎓 **Mestranda em Engenharia Elétrica e de Computação (UFC)** Campus Sobral, na área de Sistemas de Informação, com linha de pesquisa em **Engenharia de Software e Qualidade de Software**.  
 
-💻 Fullstack Developer em início de carreira, com experiência em **HTML5, CSS3, Bootstrap, JavaScript (React.js, Node.js, Express), Python, SQL** e **Prisma ORM**.
+🎓 **Bacharela em Ciência da Computação** pelo IFCE Campus Tianguá, com formação complementar em Desenvolvimento Full Stack pela **Residência em TIC 20 Capacita Brasil (UECE)**.
 
+💻 Desenvolvedora **Full Stack**, com experiência no desenvolvimento de aplicações web, APIs RESTful e integração entre frontend e backend, utilizando **React.js, Axios, Node.js, Express, PostgreSQL, Prisma ORM, Python e SQL**.
 
 ---
 
 ## 🚀 Habilidades Técnicas
 
 <p align="center">
-  
-<ul><li>Linguagens de Programação:</li></ul>
-  <img src="https://skillicons.dev/icons?i=js,python,SQL" alt="tech icons"/>
-<ul><li>Frameworks e Bibliotecas:</li></ul>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" alt="tech icons"/>
-<ul><li>Dados:</li></ul>
-  <img src="https://skillicons.dev/icons?i=postgresql,prisma" alt="tech icons"/>
-<ul><li>Ferramentas e Tecnologias:</li></ul>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="tech icons"/>
+
+<ul><li><strong>Linguagens de Programação:</strong></li></ul>
+<img src="https://skillicons.dev/icons?i=js,python,sql" alt="tech icons"/>
+
+<ul><li><strong>Frameworks e Bibliotecas:</strong></li></ul>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" alt="tech icons"/>
+
+<ul><li><strong>Banco de Dados:</strong></li></ul>
+<img src="https://skillicons.dev/icons?i=postgresql,prisma" alt="tech icons"/>
+
+<ul><li><strong>Ferramentas e Tecnologias:</strong></li></ul>
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="tech icons"/>
 
 </p>
-
 
 ---
 
 ## 💼 Projetos em Destaque
 
-### ProjetoFullStack-Cafe-do-amanha
-> Aplicação FullStack em **React.js**, **Axios**, **Node.js**, **PostgreSQL** e  **Prisma ORM**. O projeto oferece uma página inicial que apresenta o conceito poético do café, permite visualizar cardápios e produtos, realizar pedidos de forma interativa, integra frontend e backend e conta com interface responsiva para dispositivos mobile e desktop.
- 🔗 [Repositório](https://github.com/Lanna-Maria/ProjetoFullStack-Cafe-do-amanha.git)
+### ☕ ProjetoFullStack - Café do Amanhã
+Aplicação **Full Stack** desenvolvida com **React.js, Axios, Node.js, PostgreSQL e Prisma ORM**, integrando frontend e backend.  
+O sistema permite visualização de produtos, gerenciamento de pedidos e interface responsiva para dispositivos mobile e desktop.
 
-###  PetShopFeliz Website (Versão React)
-> Aplicação web realizada em equipe em **React**. O projeto consiste na criação de um site moderno, responsivo e funcional para um PetShop fictício, com foco em simular uma aplicação real utilizando React e bibliotecas auxiliares.
+🔗 [Repositório](https://github.com/Lanna-Maria/ProjetoFullStack-Cafe-do-amanha.git)
+
+---
+
+### 🐾 PetShopFeliz Website (Versão React)
+Aplicação web desenvolvida em equipe utilizando **React**.  
+Projeto focado na criação de um site moderno, responsivo e funcional para um PetShop fictício, simulando uma aplicação real com boas práticas de componentização.
+
 🔗 [Repositório](https://github.com/Lanna-Maria/projeto-pet-shop-frontend.git)
 
-###  Api de Cadastro de Alunos
-> API RESTful em **Node.js**, **Express**, **PostgreSQL** e  **Prisma ORM**. Segue o padrão MVC (Model-View-Controller) e fornece uma API RESTful para gerenciar alunos e professores de uma escola.
+---
+
+### 📚 API de Cadastro de Alunos
+API RESTful desenvolvida com **Node.js, Express, PostgreSQL e Prisma ORM**, seguindo o padrão **MVC (Model-View-Controller)**.  
+Permite gerenciar alunos e professores por meio de endpoints estruturados e organizados.
+
 🔗 [Repositório](https://github.com/Lanna-Maria/cadastro-de-alunos-backend.git)
 
-###  Calculadora React
-> Calculadora funcional  em **React.js**, que realiza operações básicas, permitindo colocar em prática os conceitos aprendidos sobre componentes, estados e eventos no React.
+---
+
+### 🧮 Calculadora React
+Aplicação desenvolvida em **React.js**, implementando operações matemáticas básicas e reforçando conceitos de componentes, estados e eventos.
+
 🔗 [Repositório](https://github.com/Lanna-Maria/Calculadora-React.git)
 
 ---
 
-## 📚 Áreas de Interesse
-- Desenvolvimento Front-End e UX/UI – criação de interfaces interativas, responsivas e focadas na experiência do usuário.
 
-- Desenvolvimento Back-End, Fullstack e APIs – construção de aplicações completas e criação de APIs usando Node.js, Express, Python, SQL e Prisma ORM.
+## 📚 Áreas de Interesse
+
+- Desenvolvimento Front-End e UX/UI: criação de interfaces interativas, responsivas e focadas na experiência do usuário.
+- Desenvolvimento Back-End, Full Stack e APIs: construção de aplicações completas e criação de APIs utilizando Node.js, Express, Python, SQL e Prisma ORM.
+- Engenharia de Software e Qualidade de Software: métricas, arquitetura, padrões de projeto e melhoria contínua no desenvolvimento de sistemas.
 
 ---
 
 ## 🌐 Conecte-se comigo
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lanna-maria" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -65,10 +85,10 @@
   <a href="mailto:lannamaria@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://lanna-maria.github.io/portifolio-Lanna/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-%239B59B6.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
 ---
-
+✨ Obrigada pela visita ao meu perfil!
