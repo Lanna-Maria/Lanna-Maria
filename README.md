@@ -11,7 +11,7 @@ Desenvolvedora Full Stack com experiência no desenvolvimento de aplicações we
 
 Tenho experiência com integração entre front-end e back-end, modelagem de bancos de dados e aplicação de Engenharia de Software.
 
-Atualmente, sou mestranda na UFC, na área de Sistemas de Informação e pesquisa em Engenharia e Qualidade de Software.
+Atualmente, sou mestranda na UFC, na área de Sistemas de Informação e pesquisa em Engenharia de Software.
 
 ---
 
@@ -50,7 +50,8 @@ Portfólio desenvolvido com React.js, com foco em responsividade, usabilidade e 
 - Desenvolvimento Full Stack  
 - Desenvolvimento Front-End  
 - Desenvolvimento Back-End  
-- Engenharia de Software  
+- Engenharia de Software
+
 
 ---
 
