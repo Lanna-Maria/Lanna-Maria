@@ -82,11 +82,11 @@ Portfólio desenvolvido com React.js, com foco em responsividade, usabilidade e 
 
 ## 📚 Formação e Atuação
 
-🎓 **Mestranda em Engenharia Elétrica e de Computação** — Universidade Federal do Ceará (UFC)
+🎓 **Mestranda em Engenharia Elétrica e de Computação** - Universidade Federal do Ceará (UFC)
 
-💻 **Bacharela em Ciência da Computação** — Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
+💻 **Bacharela em Ciência da Computação** - Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
 
-👩‍🏫 **Professora de Informática** — Ensino Médio em Tempo Integral (EMTI)
+👩‍🏫 **Professora de Informática** - Ensino Médio em Tempo Integral (EMTI)
 
 🔬 **Pesquisa:** Engenharia de Software e Qualidade de Software
 
