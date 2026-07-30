@@ -1,65 +1,86 @@
 # 👋 Olá! Eu sou a Lanna Maria
 
-💻 Desenvolvedora Full Stack | Engenharia de Software  
-🎓 Mestranda em Engenharia Elétrica e de Computação (UFC)
+💻 Desenvolvedora Full Stack | 👩‍🏫 Professora de Informática | 🔬 Engenharia de Software  
+🎓 Mestranda em Engenharia Elétrica e de Computação pela UFC
 
 ---
 
 ## 🚀 Sobre mim
 
-Desenvolvedora Full Stack com experiência no desenvolvimento de aplicações web, atuando na construção de interfaces responsivas e no desenvolvimento de APIs REST.
+Sou Professora de Informática e Desenvolvedora Full Stack, com experiência no desenvolvimento de aplicações web, atuando na construção de interfaces responsivas, desenvolvimento de APIs REST e integração entre front-end e back-end.
 
-Tenho experiência com integração entre front-end e back-end, modelagem de bancos de dados e aplicação de Engenharia de Software.
+Tenho experiência com modelagem e gerenciamento de bancos de dados, desenvolvimento de sistemas e aplicação de boas práticas de Engenharia de Software.
 
-Atualmente, sou mestranda na UFC, na área de Sistemas de Informação e pesquisa em Engenharia de Software.
+Atualmente, sou mestranda em Engenharia Elétrica e de Computação pela Universidade Federal do Ceará (UFC), na área de Sistemas de Informação, com pesquisa relacionada à Engenharia de Software e Qualidade de Software.
+
+Também atuo como Professora de Informática no Ensino Médio em Tempo Integral (EMTI), integrando tecnologia, atividades práticas e metodologias ativas ao processo de ensino-aprendizagem.
 
 ---
 
-## 🛠 Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens:** JavaScript, Python, SQL  
-**Front-end:** React.js, HTML5, CSS3, Bootstrap  
-**Back-end:** Node.js, Express, Prisma ORM  
-**Banco de Dados:** PostgreSQL  
-**Ferramentas:** Git, GitHub, VS Code, NPM  
+**Linguagens:** JavaScript, Python, SQL
+
+**Front-end:** React.js, HTML5, CSS3, Bootstrap
+
+**Back-end:** Node.js, Express, Prisma ORM
+
+**Banco de Dados:** PostgreSQL
+
+**Testes:** Jest, Cypress
+
+**Ferramentas:** Git, GitHub, VS Code, NPM
+
+**Metodologias:** Scrum, Kanban
 
 ---
 
 ## 💼 Projetos em Destaque
 
 ### ☕ Sistema Web – Café do Amanhã (Full Stack)
-Aplicação web completa com React.js e Node.js, com integração via APIs REST e persistência em PostgreSQL. Interface responsiva e estruturação seguindo boas práticas de desenvolvimento.  
-🔗 https://github.com/Lanna-Maria/ProjetoFullStack-Cafe-do-amanha.git  
+
+Aplicação web desenvolvida com React.js e Node.js, com integração via APIs REST e persistência de dados em PostgreSQL. O projeto contempla a integração entre front-end e back-end e aplicação de boas práticas de desenvolvimento.
+
+🔗 [Ver projeto no GitHub](https://github.com/Lanna-Maria/ProjetoFullStack-Cafe-do-amanha)
 
 ---
 
 ### 📚 API de Cadastro de Alunos (Back-End)
-API REST desenvolvida com Node.js, Express e PostgreSQL, com operações CRUD e organização baseada em arquitetura MVC.  
-🔗 https://github.com/Lanna-Maria/cadastro-de-alunos-backend.git  
+
+API REST desenvolvida com Node.js, Express e PostgreSQL, com operações CRUD e organização baseada na arquitetura MVC.
+
+🔗 [Ver projeto no GitHub](https://github.com/Lanna-Maria/cadastro-de-alunos-backend)
 
 ---
 
 ### 🎨 Portfólio Web Pessoal (Front-End)
-Portfólio desenvolvido com React.js, com foco em responsividade, usabilidade e apresentação de projetos.  
-🔗 https://github.com/Lanna-Maria/Portfolio-LannaMaria.git  
+
+Portfólio desenvolvido com React.js, com foco em responsividade, usabilidade e apresentação de projetos e experiências profissionais.
+
+🔗 [Ver projeto no GitHub](https://github.com/Lanna-Maria/Portfolio-LannaMaria)
 
 ---
 
-## 🎯 Áreas de Atuação
+## 🎯 Áreas de Interesse
 
-- Desenvolvimento Full Stack  
-- Desenvolvimento Front-End  
-- Desenvolvimento Back-End  
 - Engenharia de Software
-
+- Qualidade de Software
+- Desenvolvimento Full Stack
+- Desenvolvimento Front-End
+- Desenvolvimento Back-End
+- Sistemas de Informação
+- Tecnologias Educacionais
+- Educação e Tecnologia
 
 ---
 
 ## 📫 Contato
 
-🔗 LinkedIn: https://www.linkedin.com/in/lannamaria/  
-📧 Email: lannamaria2016@gmail.com  
-🌐 Portfólio: https://lanna-maria.github.io/Portfolio-LannaMaria/  
+🔗 LinkedIn: [linkedin.com/in/lannamaria](https://www.linkedin.com/in/lannamaria/)
+
+📧 Email: lannamaria2016@gmail.com
+
+🌐 Portfólio: [lanna-maria.github.io/Portfolio-LannaMaria](https://lanna-maria.github.io/Portfolio-LannaMaria/)
 
 ---
 
