@@ -11,7 +11,7 @@ Sou Professora de Informática e Desenvolvedora Full Stack, com experiência no 
 
 Tenho experiência com modelagem e gerenciamento de bancos de dados, desenvolvimento de sistemas e aplicação de boas práticas de Engenharia de Software.
 
-Também possuo interesse e experiência acadêmica e em projetos relacionados a dados e Machine Learning, explorando o uso de tecnologias e técnicas computacionais para análise e desenvolvimento de soluções.
+Possuo interesse e experiência acadêmica e em projetos relacionados a dados e Machine Learning, explorando o uso de tecnologias e técnicas computacionais para análise e desenvolvimento de soluções.
 
 Atualmente, sou mestranda em Engenharia Elétrica e de Computação pela Universidade Federal do Ceará (UFC), na área de Sistemas de Informação, com pesquisa relacionada à Engenharia de Software e Qualidade de Software.
 
